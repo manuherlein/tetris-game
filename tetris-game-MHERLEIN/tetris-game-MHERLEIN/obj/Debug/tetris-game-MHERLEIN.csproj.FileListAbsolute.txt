@@ -1,0 +1,9 @@
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\tetris-game-MHERLEIN\tetris-game-MHERLEIN\bin\Debug\tetris-game-MHERLEIN.exe.config
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\tetris-game-MHERLEIN\tetris-game-MHERLEIN\bin\Debug\tetris-game-MHERLEIN.exe
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\tetris-game-MHERLEIN\tetris-game-MHERLEIN\bin\Debug\tetris-game-MHERLEIN.pdb
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\tetris-game-MHERLEIN\tetris-game-MHERLEIN\obj\Debug\tetris-game-MHERLEIN.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\tetris-game-MHERLEIN\tetris-game-MHERLEIN\obj\Debug\tetris_game_MHERLEIN.Form1.resources
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\tetris-game-MHERLEIN\tetris-game-MHERLEIN\obj\Debug\tetris_game_MHERLEIN.Properties.Resources.resources
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\tetris-game-MHERLEIN\tetris-game-MHERLEIN\obj\Debug\tetris-game-MHERLEIN.csproj.GenerateResource.Cache
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\tetris-game-MHERLEIN\tetris-game-MHERLEIN\obj\Debug\tetris-game-MHERLEIN.exe
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\tetris-game-MHERLEIN\tetris-game-MHERLEIN\obj\Debug\tetris-game-MHERLEIN.pdb
